@@ -1,10 +1,10 @@
 <div align="center">
 
-# unnamed-SDVX-clone-AppImage 🐧
+# Unnamed-SDVX-clone-AppImage 🐧
 
-[![GitHub Downloads](https://img.shields.io/github/downloads/pkgforge-dev/unnamed-SDVX-clone-AppImage/total?logo=github&label=GitHub%20Downloads)](https://github.com/pkgforge-dev/unnamed-SDVX-clone-AppImage/releases/latest)
-[![CI Build Status](https://github.com/pkgforge-dev/unnamed-SDVX-clone-AppImage/actions/workflows/appimage.yml/badge.svg)](https://github.com/pkgforge-dev/unnamed-SDVX-clone-AppImage/releases/latest)
-[![Latest Stable Release](https://img.shields.io/github/v/release/pkgforge-dev/unnamed-SDVX-clone-AppImage)](https://github.com/pkgforge-dev/unnamed-SDVX-clone-AppImage/releases/latest)
+[![GitHub Downloads](https://img.shields.io/github/downloads/pkgforge-dev/Unnamed-SDVX-clone-AppImage/total?logo=github&label=GitHub%20Downloads)](https://github.com/pkgforge-dev/Unnamed-SDVX-clone-AppImage/releases/latest)
+[![CI Build Status](https://github.com/pkgforge-dev/Unnamed-SDVX-clone-AppImage/actions/workflows/appimage.yml/badge.svg)](https://github.com/pkgforge-dev/Unnamed-SDVX-clone-AppImage/releases/latest)
+[![Latest Stable Release](https://img.shields.io/github/v/release/pkgforge-dev/Unnamed-SDVX-clone-AppImage)](https://github.com/pkgforge-dev/Unnamed-SDVX-clone-AppImage/releases/latest)
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/Drewol/unnamed-sdvx-clone/refs/heads/develop/appimage/usc-game.png" width="128" />
@@ -13,7 +13,7 @@
 
 | Latest Stable Release | Upstream URL |
 | :---: | :---: |
-| [Click here](https://github.com/pkgforge-dev/unnamed-SDVX-clone-AppImage/releases/latest) | [Click here](https://github.com/Drewol/unnamed-sdvx-clone) |
+| [Click here](https://github.com/pkgforge-dev/Unnamed-SDVX-clone-AppImage/releases/latest) | [Click here](https://github.com/Drewol/unnamed-sdvx-clone) |
 
 </div>
 
